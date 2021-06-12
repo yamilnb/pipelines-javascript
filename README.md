@@ -1,3 +1,5 @@
+[![Build Status](https://yamilbraccel.visualstudio.com/SO%20Demo%20Agile/_apis/build/status/yamilnb.pipelines-javascript?branchName=master)](https://yamilbraccel.visualstudio.com/SO%20Demo%20Agile/_build/latest?definitionId=2&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
